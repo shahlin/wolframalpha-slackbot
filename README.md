@@ -96,7 +96,8 @@ Follow the steps below :
 ![Get AppID Button](https://imgur.com/eljDBvO.png "Get an AppID")
 
 - Enter your app's name and description
-![Get AppID Button](https://imgur.com/gSnHPK0.png "Enter App details")
+
+ ![Get AppID Button](https://imgur.com/gSnHPK0.png "Enter App details")
 
 - Upon success, your app will be given an **APP ID** which we will use later in the code
 ![Get AppID Button](https://imgur.com/sm5y2DP.png "App ID")
