@@ -92,8 +92,8 @@ You'll need an account in Wolfram Alpha to be able to use the API.
 **Wolfram Alpha Documentation for Reference : https://products.wolframalpha.com/api/documentation**
 
 Follow the steps below :
- - Click on **Get an AppID** on top right
- ![Get AppID Button](https://imgur.com/eljDBvO.png "Get an AppID")
+- Click on **Get an AppID** on top right
+![Get AppID Button](https://imgur.com/eljDBvO.png "Get an AppID")
 
 - Enter your app's name and description
 ![Get AppID Button](https://imgur.com/gSnHPK0.png "Enter App details")
