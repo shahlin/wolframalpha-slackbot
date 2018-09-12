@@ -86,9 +86,12 @@ if __name__ == "__main__":
 So now, you should be having a python file with code similar to the one above. At this point, you should be able to use your Slack bot even though it is not going to reply anything useful. But make sure, it does reply something.
 
 ## Setting up Wolfram Alpha app
-You'll need an account in Wolfram Alpha to be able to use the API. 
+You'll need an account in Wolfram Alpha to be able to use the API.
+
 **Create An Account : https://www.wolframalpha.com/pro/subscribe/signup.html**
+
 **Open Developer Portal : http://developer.wolframalpha.com/portal/myapps/**
+
 **Wolfram Alpha Documentation for Reference : https://products.wolframalpha.com/api/documentation**
 
 Follow the steps below :
